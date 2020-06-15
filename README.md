@@ -1,5 +1,6 @@
-Challenges from: [Codewars](https://www.codewars.com/dashboard)
-My profile: [miguelsoliv](https://www.codewars.com/users/miguelsoliv)
+#### Challenges from: [Codewars](https://www.codewars.com/dashboard)
+
+#### My profile: [miguelsoliv](https://www.codewars.com/users/miguelsoliv)
 
 #### Online Editors
 
